@@ -4,9 +4,21 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenya385/module.git"
   },
   "keywords": [],
   "author": "Roman Zeno <zeno385@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenya385/module/issues"
+  },
+  "homepage": "https://github.com/zenya385/module#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
 }
